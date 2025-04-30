@@ -128,3 +128,7 @@ Consulte o README se tiver dúvidas sobre a sua utilização.
 
 12. Teste a função anterior, apresentando os números ímpares filtrados. :warning: Verifique a correta gestão de memória com o *valgrind*.
 
+---
+
+<bruno.silva@estsetubal.ips.pt>
+
